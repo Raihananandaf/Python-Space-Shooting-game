@@ -42,7 +42,7 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/Python-Space-Shooting-game.git
+   git clone https://github.com/Raihananandaf/Python-Space-Shooting-game.git
    ```
 
 2. Navigate to the project directory:
@@ -51,16 +51,16 @@
    cd Python-Space-Shooting-game
    ```
 
-3. Install Pygame:
+3. Install the dependencies:
 
    ```bash
-   pip install pygame
+   pip install -r requirements.txt
    ```
 
 4. Run the game:
 
    ```bash
-   python main.py
+   python shooter.py
    ```
 
 ## 🎮 Objective
